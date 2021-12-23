@@ -10,6 +10,6 @@ The aim of the project is to build a recommendation system( using the user ratin
 
 **Algorithms :**
 
-* Recommendation System - ALS(Alternating least squares)
-* Sentiment Analysis - Logistic Regression
+* Recommendation System - ALS(Alternating least squares) [ L2 Regularization, Cross Validation with Parameter tuning]
+* Sentiment Analysis - Logistic Regression [ Elastic net Regularization , cross validation with Parameter tuning]
 " 
